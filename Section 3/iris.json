@@ -1,0 +1,21 @@
+{    
+    "species": "I. setosa", 
+    "sepal_length": 5.1, 
+    "sepal_width": 3.5, 
+    "petal_length": 1.4,
+    "petal_width": 0.2
+}
+{    
+    "species": "I. setosa", 
+    "sepal_length": 4.9, 
+    "sepal_width": 3.0, 
+    "petal_length": 1.4,
+    "petal_width": 0.2
+}
+{    
+    "species": "I. virginica", 
+    "sepal_length": 5.9, 
+    "sepal_width": 3.0, 
+    "petal_length": 5.1,
+    "petal_width": 1.8
+}
