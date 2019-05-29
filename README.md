@@ -1,4 +1,4 @@
-﻿# Julia for Data Science [Video	
+﻿# Julia for Data Science [Video]	
 This is the code repository for Julia for Data Science [Video]. It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 	
